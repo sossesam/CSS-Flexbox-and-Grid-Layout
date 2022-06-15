@@ -74,7 +74,8 @@ p{
 h1{
     font-family: 'Big Shoulders Display', cursive;
     font-weight: 700;
-}#nav{
+}
+#nav{
     float: right;
     padding: 10px;
 }
