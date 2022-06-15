@@ -6,6 +6,7 @@ body{
     background-color: grey;
     height: 100vh;
     display: flex;
+    flex-direction: column;
    
 }
 #grid_container{
@@ -45,4 +46,13 @@ div{
 #grid5{
     background-color: turquoise;
     grid-area: grid5;
+}
+#nav{
+    float: right;
+    padding: 10px;
+}
+a{
+    padding: 40px;
+    border-radius: 20px;
+    background-color: red;
 }
