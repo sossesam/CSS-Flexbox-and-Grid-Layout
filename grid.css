@@ -11,7 +11,7 @@ body{
 }
 #grid_container{
     position: relative;
-    margin: 10% 20% ;
+    margin: auto ;
     width: 50%;
     height: 60vh;
     display: grid;
